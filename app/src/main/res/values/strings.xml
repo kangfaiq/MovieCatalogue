@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="name_movie">Nama Movie</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="judul_movie">Judul Movie</string>
+    <string name="content_text">Deskripsi Movie</string>
+
+    <string-array name="data_name">
+        <item>Aquaman</item>
+        <item>Bird Box</item>
+        <item>Bohemian</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Once Upon a Deadpool</item>
+        <item>Mary Poppins Return</item>
+        <item>Preman Pensiun</item>
+        <item>Spider-Man: Into The Spider-Verse</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Half-human, half-Atlantean Arthur is born with the ability to communicate with marine creatures. He goes on a quest to retrieve the legendary Trident of Atlan and protect the water world.</item>
+        <item>When a mysterious force decimates the population, only one thing is certain, if you see it, you die. The survivors must now avoid coming face to face with an entity that takes the form of their worst fears.</item>
+        <item>Queen, a British rock band, sets out to achieve musical superstardom. At the same time, lead singer Freddie Mercury faces personal struggles pertaining to his ego and sexuality.</item>
+        <item>After the Civil War, Optimus Prime sends Autobot scout B-127 to Earth to form a base where they can regroup. Later, the scout befriends a girl named Charlie, who names him Bumblebee.</item>
+        <item>In 1985, Russian boxer Ivan Drago killed former U.S. champion Apollo Creed in a tragic match that stunned the world.</item>
+        <item>Deadpool protects a young mutant Russell from the authorities and gets thrown in prison. However, he escapes and forms a team of mutants to prevent a time-travelling mercenary from killing Russell.</item>
+        <item>Now an adult with three children, bank teller Michael Banks learns that his house will be repossessed in five days unless he can pay back a loan. His only hope is to find a missing certificate that shows proof of valuable shares that his father left him years earlier.</item>
+        <item>After three years, the business of Muslihat, who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira, her only daughter, grows up in adolescence and begins to be visited by boys. A bigger problem: frictions between his former subordinates.</item>
+        <item>After gaining superpowers from a spider bite, Miles Morales protects the city as Spider-Man. Soon, he meets alternate versions of himself and gets embroiled in an epic battle to save the multiverse.</item>
+        <item>While trying to take down Carlton, the CEO of Life Foundation, Eddie, a journalist, investigates experiments of human trials. Unwittingly, he gets merged with a symbiotic alien with lethal abilities.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+</resources>
